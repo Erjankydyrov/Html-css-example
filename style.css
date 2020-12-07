@@ -34,3 +34,11 @@
     border-radius: 5px;
     font-size: 20px;
 }
+.ok{
+    background-color: hsl(118, 90%, 50%);
+    border: 1px solid hsl(118, 90%, 50%);
+}
+.notok{
+    background-color: hsl(0, 90%, 50%);
+    border: 1px solid hsl(0, 90%, 50%);
+}
